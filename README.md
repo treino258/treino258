@@ -21,18 +21,14 @@
 </h3>
 <br>
 
- High-Potential AI Strategist | Systems Thinker in Training
-"Merging Biological Systems Logic with Machine Learning to solve complex challenges."
+My work sits at the intersection of biomechanics, machine learning, and physics simulation. I combine formal training in movement science (BSc Physiotherapy) with advanced AI engineering (BTech AI Systems, FIAP ) to tackle problems where biological intelligence meets computational systems.
 
-I am an AI Technology student transitioning from a background in Physiotherapy. My mission is to apply Systemic Thinking—the ability to understand interconnected, non-linear variables—to the world of Data Science and Machine Learning.
+Current Focus:
 
-While I am early in my technical journey, my focus is on building a rigorous foundation in:
-
- - Machine Learning & Predictive Analytics: Moving from data patterns to actionable insights.
-
- - Exploratory Data Analysis (EDA): Uncovering the "why" behind the numbers.
-
- - Systems Simulation: Modeling complex environments to predict outcomes.
+- 🤖 Humanoid Locomotion - Deep RL controllers for bipedal robots
+- 👁️ Motion Analysis - Computer vision for real-time biomechanical assessment
+- 🎮 Physics Simulation - Realistic human movement synthesis
+- 📡 Sensor Fusion - Wearable data processing and edge deployment
 
 ---
 
@@ -58,3 +54,42 @@ While I am early in my technical journey, my focus is on building a rigorous fou
 **Academic Excellence:** GPA 3.3 
 
 ---
+
+
+<h2 align="center" id="featured-projects">
+    🚀 FEATURED PROJECTS
+</h2>
+<div align="center">
+</div>
+<br>
+
+
+
+<h2 align="center" id="featured-projects">
+    🛠️ Technical Stack
+</h2>
+<div align="center">
+</div>
+<br>
+
+**Machine Learning & AI**
+ - `Deep Learning    : TensorFlow, PyTorch, Keras`
+ - `Computer Vision  : OpenCV, MediaPipe, YOLO`
+ - `Reinforcement Learning : Stable-Baselines3, RLlib`
+ - `Classical ML      : Scikit-learn, XGBoost`
+
+**Physics & Simulation**
+ - `Robotics Simulation : PyBullet, MuJoCo, Isaac Gym (learning)`
+ - `Physics Engines     : PyBullet, Pymunk`
+ - ` 3D Graphics         : Three.js, Matplotlib 3D`
+
+**Data & Development**
+ - `Data Processing   : Pandas, NumPy, SciPy`
+ - `Visualization     : Matplotlib, Plotly, Seaborn`
+ - `Development       : Git, Docker, Linux, VS Code`
+ - `Deployment        : FastAPI, Streamlit, Flask`
+ - `Cloud/Computing   : Google Colab, Local GPU (RTX 5050)`
+
+**Languages**
+ - `Proficient : Python, SQL`
+ - `Learning   : C++, JavaScript`
