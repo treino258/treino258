@@ -21,14 +21,9 @@
 </h3>
 <br>
 
-My work sits at the intersection of biomechanics, machine learning, and physics simulation. I combine formal training in movement science (BSc Physiotherapy) with advanced AI engineering (BTech AI Systems, FIAP ) to tackle problems where biological intelligence meets computational systems.
+Machine Learning & Computer Vision Developer focused on practical, high-impact applications.
 
-Current Focus:
-
-- 🤖 Humanoid Locomotion - Deep RL controllers for bipedal robots
-- 👁️ Motion Analysis - Computer vision for real-time biomechanical assessment
-- 🎮 Physics Simulation - Realistic human movement synthesis
-- 📡 Sensor Fusion - Wearable data processing and edge deployment
+I specialize in object detection, motion analysis, and deploying production-ready models. My unique background in Biomechanics allows me to bridge the gap between human movement science and computational intelligence.
 
 ---
 
@@ -50,8 +45,6 @@ Current Focus:
 **Bachelor of Science - Phisioterapy** | **UniVap** | *2019 - 2024*
 
 **Key Areas:** `Neuroplasticity Models` `Genetics` `Computational Biology` `Clinical Research Methodology` `Signal Processing` `Scientific Publishing`
-
-**Academic Excellence:** GPA 3.3 
 
 ---
 
@@ -75,21 +68,20 @@ Current Focus:
 **Machine Learning & AI**
  - `Deep Learning    : TensorFlow, PyTorch, Keras`
  - `Computer Vision  : OpenCV, MediaPipe, YOLO`
- - `Reinforcement Learning : Stable-Baselines3, RLlib`
+ - `Reinforcement Learning : Stable-Baselines3`
  - `Classical ML      : Scikit-learn, XGBoost`
 
 **Physics & Simulation**
  - `Robotics Simulation : PyBullet, MuJoCo, Isaac Gym (learning)`
- - `Physics Engines     : PyBullet, Pymunk`
- - ` 3D Graphics         : Three.js, Matplotlib 3D`
+ - `Physics Engines     : PyBullet`
 
 **Data & Development**
  - `Data Processing   : Pandas, NumPy, SciPy`
  - `Visualization     : Matplotlib, Plotly, Seaborn`
- - `Development       : Git, Docker, Linux, VS Code`
- - `Deployment        : FastAPI, Streamlit, Flask`
+ - `Development       : Git, VS Code`
+ - `Deployment        : FastAPI, Streamlit`
  - `Cloud/Computing   : Google Colab, Local GPU (RTX 5050)`
 
 **Languages**
- - `Proficient : Python, SQL`
+ - `Proficient : Python, SQL (learning)`
  - `Learning   : C++, JavaScript`
