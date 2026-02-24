@@ -56,7 +56,18 @@ I specialize in object detection, motion analysis, and deploying production-read
 </div>
 <br>
 
+### Predict Health Risk IA (end-to-end)
+**Solo Development** | *Predict Health Risk IA*
 
+**Business Goal:** Democratizar a triagem de risco cardíaco com IA, reduzindo a dependência de especialistas para uma primeira avaliação preventiva.
+
+**Solution & Impact:** Modelo RandomForest treinado com dados clínicos reais, validado com cross-validation, entregue como aplicação web acessível via Streamlit.
+
+**Technologies**: `Python` · `Scikit-learn` · `Pandas` · `Streamlit` · `Joblib`
+
+<a href="https://github.com/treino258/Predict-Health-Risk-IA">
+  <img src="https://img.shields.io/badge/End--to--End-Machine_Learning-2ecc71?style=for-the-badge&logo=scikit-learn&logoColor=white"/>
+</a>
 
 <h2 align="center" id="featured-projects">
     🛠️ Technical Stack
@@ -67,7 +78,7 @@ I specialize in object detection, motion analysis, and deploying production-read
 
 **Machine Learning & AI**
  - `Deep Learning    : TensorFlow, PyTorch, Keras`
- - `Computer Vision  : OpenCV, MediaPipe, YOLO`
+ - `Computer Vision  : OpenCV, MediaPipe, YOLO (learning)`
  - `Reinforcement Learning : Stable-Baselines3`
  - `Classical ML      : Scikit-learn, XGBoost`
 
