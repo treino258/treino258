@@ -3,7 +3,7 @@
 </div>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?lines=AI%20Student%7C%20ML%20and%20Simulations%20Enthusiastic;%20Data%20Science;%20Problem%20Solver;%20Searching%20Intership;%20Future%20Tech%20Lead&font=Fira%20Code&center=true&width=800&height=45&color=fbf1c7&vCenter=true&size=22">
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=AI%20Student%7C%20ML%20and%20Simulations%20Enthusiastic;%20Data%20Science;%20Problem%20Solver;%20Seeking%20Intership;%20Future%20Tech%20Lead&font=Fira%20Code&center=true&width=800&height=45&color=fbf1c7&vCenter=true&size=22">
 </p>
 
 ---
@@ -23,7 +23,7 @@
 
 Machine Learning & Computer Vision Developer focused on practical, high-impact applications.
 
-I specialize in object detection, motion analysis, and deploying production-ready models. My unique background in Biomechanics allows me to bridge the gap between human movement science and computational intelligence.
+I specialize in object detection and motion analysis. My unique background in Biomechanics allows me to bridge the gap between human movement science and computational intelligence.
 
 ---
 
@@ -50,7 +50,7 @@ I specialize in object detection, motion analysis, and deploying production-read
 
 
 <h2 align="center" id="featured-projects">
-    🚀 FEATURED PROJECTS
+    🚀 PROJECTS
 </h2>
 <div align="center">
 </div>
