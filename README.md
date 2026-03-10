@@ -59,11 +59,11 @@ I specialize in object detection and motion analysis. My unique background in Bi
 ### Predict Health Risk IA (end-to-end)
 **Solo Development** | *Predict Health Risk IA*
 
-**Business Goal:** Democratizar a triagem de risco cardíaco com IA, reduzindo a dependência de especialistas para uma primeira avaliação preventiva.
+**Business Goal:** Democratize cardiac risk screening with AI, enabling anyone — regardless of medical background — to assess their heart disease risk and understand the factors that influence their cardiovascular health.
 
-**Solution & Impact:** Modelo RandomForest treinado com dados clínicos reais, validado com cross-validation, entregue como aplicação web acessível via Streamlit.
+**Solution & Impact:**  RandomForest model trained on real clinical data from 918 patients (91% Recall), delivered as a web application with two layers: real-time risk prediction via Streamlit and a conversational assistant powered by Google Gemini that answers questions, explains results, and educates users about cardiac risk in natural language.
 
-**Technologies**: `Python` · `Scikit-learn` · `Pandas` · `Streamlit` · `Joblib`
+**Technologies**: `Python` · `Scikit-learn` · `Pandas` · `Streamlit` · `Joblib` · `Google Gemini API` · `Function Calling`
 
 <a href="https://github.com/treino258/Predict-Health-Risk-IA">
   <img src="https://img.shields.io/badge/End--to--End-Machine_Learning-2ecc71?style=for-the-badge&logo=scikit-learn&logoColor=white"/>
